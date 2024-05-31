@@ -1,0 +1,5 @@
+C:/Users/elena/CLionProjects/task4_7/cmake-build-debug/CMakeFiles/task4_7.dir
+C:/Users/elena/CLionProjects/task4_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elena/CLionProjects/task4_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/elena/CLionProjects/task4_7/cmake-build-debug/CMakeFiles/task4_7_autogen_timestamp_deps.dir
+C:/Users/elena/CLionProjects/task4_7/cmake-build-debug/CMakeFiles/task4_7_autogen.dir
